@@ -9,5 +9,7 @@ Adds the MiG-21K Koschei to Nuclear Option.
 
 # Credits
 Huge thanks to GryphusOne for the model.
+
 Also huge thanks to faith for the base liveries.
+
 <3
