@@ -13,5 +13,7 @@ Huge thanks to GryphusOne for the model.
 Also huge thanks to faith for the base liveries.
 
 <3
-
+Known Issues (to be fixed in future updates)
+- Glass clipping issue in cockpit
+- Landing Gearing clipping through
 Takeoff music is IL-76 by uamee
